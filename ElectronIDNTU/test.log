@@ -1,0 +1,15 @@
+dlopen error: /nas2/cmsdas/dasuser44/short/CMSDataAnalysisSchoolLPC2016ElectronsAndPhotons/CMSSW_7_4_12/src/ElectronID/./VarCut_cc.so: undefined symbol: gInterpreterMutex
+Load Error: Failed to load Dynamic link library /nas2/cmsdas/dasuser44/short/CMSDataAnalysisSchoolLPC2016ElectronsAndPhotons/CMSSW_7_4_12/src/ElectronID/./VarCut_cc.so
+
+Processing simpleOptimization.C...
+Error: optimize() declared but not defined simpleOptimization.C:55:
+*** Interpreter error recovered ***
+
+-----------------------------------------------------------------
+
+    Run optimization, single pass  
+
+ Input file that defines cut optimization limits: cuts_barrel_eff_0999_20140729_111500.root
+ Base for the file name of output cuts          : cuts_barrel_20140730_200000
+------------------------------------------------------------------
+
